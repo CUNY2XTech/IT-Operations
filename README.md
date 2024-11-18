@@ -1,4 +1,18 @@
+<div align="center">
+  
++-----------------------+  
+|      CUNY2X TECH       |  
++-----------------------+
 
+</div>
+
+
+<div style="text-align:center" >
+<h1 style="text-align:center">IT Interships</h1>
+<h2>This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: IT Operations
+</h2>
+<p>Internships will be updated</p>
+</div>
 | Company         | Internship Name                                      | Location        |Work Type| Link                                   |
 |-----------------|------------------------------------------------------|-----------------|---------|----------------------------------------|
 |Apple Bank|2025 Summer Internship - IT|NY|Hybrid|[Apple Bank](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/Chanin-Corporate-Headquarters/XMLNAME-2025-Summer-Internship---IT_2024-0659?source=LinkedIn)|
