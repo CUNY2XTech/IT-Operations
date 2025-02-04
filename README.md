@@ -15,7 +15,8 @@
 </div>
 
 | Company         | Internship Name                                      | Location        |Work Type| Link                                   |
-|-----------------|------------------------------------------------------|-----------------|---------|----------------------------------------|
+|-----------------|------------------------------------------------------|-----------------|---------|----------------------------------------
+|Kearny Bank|[Intern - Data Analytics/IT]|NJ|In Person|[Kearny Bank](https://careers-kearnybank.icims.com/jobs/2727/intern---data-analytics-it/job?mobile=false&width=1903&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|
 |New York City Department of Youth and Community Development (DYCD)|College Aide - Applications Support|NYC|In Person|[New York City Department of Youth and Community Development](https://cityjobs.nyc.gov/job/college-aide-applications-support-in-nyc-all-boros-jid-28105)|
 |New York City Department of Youth and Community Development (DYCD)|College Aide- Help Desk Technician|NYC|In Person|[New York City Department of Youth and Community Development](https://cityjobs.nyc.gov/job/college-aide-help-desk-technician-in-nyc-all-boros-jid-27285)|
 |Pintrest|IT Systems Engineering Intern (USA)|Remote USA|Remote|[Pintrest](https://www.pinterestcareers.com/jobs/6319532/it-systems-engineering-intern-usa/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_jid=6319532)|
